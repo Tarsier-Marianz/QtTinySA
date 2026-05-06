@@ -1,0 +1,6 @@
+numpy
+Pillow
+platformdirs
+pyserial
+pyqtgraph
+pyside6
